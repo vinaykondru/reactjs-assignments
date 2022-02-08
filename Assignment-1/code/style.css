@@ -1,1 +1,160 @@
+.box 
 
+{
+    border: 1px solid black;
+    width: 100%;
+    height: 580px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 28px;
+    background-color: lightgray;
+    border-style: none;
+  }
+  .box1 {
+    border: 1px solid black;
+    height: 550px;
+    width: 120px;
+    border-style: none;
+    background-color: white;
+  }
+  .box2 {
+    border: 1px solid black;
+    height: 550px;
+    width: 200px;
+    border-style: none;
+    background-color: white;
+  }
+  .box3 {
+    border: 1px solid black;
+    height: 550px;
+    width: 250px;
+    border-style: none;
+    background-color: white;
+  }
+  .col1 , .col2 , .col3 {
+    border: 1px solid black;
+    height: 100px;
+    margin-top: 30px;
+    border-style: none;
+  }
+  .col1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-style: none;
+    
+  }
+  .a1,.a2 {
+    border: 1px solid blue;
+    height: 25%;
+    width: 80%;
+    margin-left: 8px;
+    border-style: none;
+    background-color: orange;
+    
+  }
+  .col2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-style: none;
+  }
+  .b1,.b2 {
+    border: 1px solid blue;
+    height: 65px;
+    width: 35%;
+    margin-top: 17px;
+    border-style: none;
+    background-color: orange;
+  }
+  .col3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-style: none;
+  }
+  .c1,.c2 {
+    border: 1px solid blue;
+    height: 65px;
+    width: 45%;
+    margin-top: 17px;
+    border-style: none;
+    background-color: orange;
+  }
+  .a3 {
+    border: 1px solid blue;
+    height: 90px;
+    width: 100px;
+    margin-top: 45px;
+    margin-left: 8px;
+    border-style: none;
+    background-color: red;
+  }
+  .b3 {
+    border: 1px solid blue;
+    height: 90px;
+    width: 180px;
+    margin-top: 45px;
+    margin-left: 8px;
+    border-style: none;
+    background-color: red;
+  }
+  .c3 {
+    border: 1px solid blue;
+    height: 90px;
+    width: 230px;
+    margin-top: 45px;
+    margin-left: 8px;
+    border-style: none;
+    background-color: red;
+  }
+  .one, .two {
+    border: 1px solid black;
+    height: 180px;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-style: none;
+  
+  }
+  .a4,.a5 {
+    border: 1px solid blue;
+    height: 25%;
+    width: 80%;
+    margin-left: 10px;
+    border-style: none;
+    background-color: blue;
+   
+  }
+  .b4,.b5 {
+    border: 1px solid blue;
+    height: 25%;
+    width: 80%;
+    margin-left: 17px;
+    border-style: none;
+    background-color: blue;
+  }
+  
+  .three {
+    border: 1px solid black;
+    height: 180px;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border-style: none;
+    
+  }
+  .c4,.c5,.c6 {
+    border: 1px solid blue;
+    height: 70%;
+    width: 25%;
+    margin-top: 25px;
+    border-style: none;
+    background-color: blue;
+  }
+
+
+  
