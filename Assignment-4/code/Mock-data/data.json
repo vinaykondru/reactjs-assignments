@@ -1,0 +1,28 @@
+{
+    "user": [
+        {
+            "name": "Siva",
+            "location": "Bengaluru",
+            "likes": 64,
+            "description": "Kick start your career",
+            "PostImage": "https://images.unsplash.com/photo-1644354446136-cb87acd1ecbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDY4fHJuU0tESHd3WVVrfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "date": "newDate()"
+        },
+        {
+            "name": "Neeraj",
+            "location": "Pune",
+            "likes": 30,
+            "description": "Sample Description",
+            "PostImage": "https://images.unsplash.com/photo-1644534223015-e8c68f5a8340?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDYxfHJuU0tESHd3WVVrfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "date": "new Date()"
+        },
+        {
+            "name": "Rahul",
+            "location": "Hyderabad",
+            "likes": 30,
+            "description": "Sample Description for Post",
+            "PostImage": "https://images.unsplash.com/photo-1644366667172-d8aab562c234?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDY5fHJuU0tESHd3WVVrfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+            "date": "new Date()"
+        }
+    ]
+}

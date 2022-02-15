@@ -4,6 +4,19 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// const employee = {
+//   Name: 'Alan Ford',
+//   EmployeeId: '00005162',
+//   Appointment: '9:00(24-05-2016)',
+//   Email: 'alan.form@Email.nl',
+//   Phone: '+31123456789',
+//   Status: 'In Progress',
+//   Door: 'Mark',
+//   Time: '10:30 (25-05-2016)',
+//   profileImg: 'https://www.w3schools.com/howto/img_avatar.png'
+// }
+
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
